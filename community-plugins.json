@@ -28005,5 +28005,12 @@
     "author": "arturtupiassu",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Add an emoji from frontmatter to the File Explorer title. Now supports inherit_emoji for folders.",
     "repo": "arturtupiassu/emoji-title-plugin"
+  },
+  {
+    "id": "tidelog",
+    "name": "TideLog",
+    "author": "enhen3",
+    "description": "Plan tasks, complete Review loops, and preview AI insights from daily notes.",
+    "repo": "enhen3/Tidelog"
   }
 ]
